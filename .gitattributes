@@ -2,3 +2,5 @@
 *.css linguist-language=matlab
 *.html linguist-language=matlab
 *.m linguist-language=matlab
+*.mat linguist-language=matlab
+*.slurm linguist-language=matlab
